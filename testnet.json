@@ -1,0 +1,24 @@
+{
+  "en": [
+    {
+      "title": "hardhat deploy",
+      "excerpt": "This plugin adds the _deploy_ task to Hardhat. This task will execute the scripts in the `deploy` folder and save the contract deployments to disk.",
+      "content": "This plugin adds the _deploy_ task to Hardhat.\n\nThis task will execute the scripts in the `deploy` folder and save the contract deployments to disk. These deployments are supposed to be saved for example in a git repository. This way they can be accessed later. But you are free to save them elsewhere and get them back via your mechanism of choice.\n\nWith the deployment saved, it allows you to deploy a contract only if changes were made.\n\nDeploy scripts (also called Deploy functions) can also perform arbitrary logic.\n\nFor further details on how to use it and write deploy script, see [section](#deploy-scripts) below."
+    }
+  ],
+  "de": [],
+  "es": [],
+  "fr": [],
+  "id": [],
+  "it": [],
+  "ja": [],
+  "ko": [],
+  "nl": [],
+  "pt": [],
+  "ro": [],
+  "ru": [],
+  "tr": [],
+  "vi": [],
+  "zh-hans": [],
+  "zh-hant": []
+}
