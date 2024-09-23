@@ -1,9 +1,18 @@
 {
   "en": [
     {
-      "title": "hardhat deploy",
-      "excerpt": "This plugin adds the _deploy_ task to Hardhat. This task will execute the scripts in the `deploy` folder and save the contract deployments to disk.",
-      "content": "This plugin adds the _deploy_ task to Hardhat.\n\nThis task will execute the scripts in the `deploy` folder and save the contract deployments to disk. These deployments are supposed to be saved for example in a git repository. This way they can be accessed later. But you are free to save them elsewhere and get them back via your mechanism of choice.\n\nWith the deployment saved, it allows you to deploy a contract only if changes were made.\n\nDeploy scripts (also called Deploy functions) can also perform arbitrary logic.\n\nFor further details on how to use it and write deploy script, see [section](#deploy-scripts) below."
+      "title": "Beta Test V3",
+      "excerpt": "User-driven updates, improved UI, simplified blockchain experience, and enhanced #NFT features.",
+      "content": "BlueberryRing testnet has evolved to v3!\n\n
+In this update, we've:\n
+• Incorporated all UXUY user feedback\n
+• Thoroughly tested all functionalities\n
+• Improved UI aesthetics\n\n
+Recognizing that blockchain can be confusing for Web2 users, we've made significant improvements to:\n
+• User experience\n
+• Onboarding process\n
+• Educational resources\n\n
+New feature highlight: Enhanced #NFT random number generation"
     }
   ],
   "de": [],
