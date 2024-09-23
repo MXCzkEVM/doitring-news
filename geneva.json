@@ -6,19 +6,109 @@
       "content": "BlueberryRing testnet has evolved to v3! In this update, we've: \n\n • Incorporated all UXUY user feedback \n\n • Thoroughly tested all functionalities \n\n • Improved UI aesthetics\n\nRecognizing that blockchain can be confusing for Web2 users, we've made significant improvements to: \n\n • User experience \n\n • Onboarding process \n\n • Educational resources \n\n **New feature highlight**: Enhanced #NFT random number generation"
     }
   ],
-  "de": [],
-  "es": [],
-  "fr": [],
-  "id": [],
-  "it": [],
-  "ja": [],
-  "ko": [],
-  "nl": [],
-  "pt": [],
-  "ro": [],
-  "ru": [],
-  "tr": [],
-  "vi": [],
-  "zh-hans": [],
-  "zh-hant": []
+  "de": [
+    {
+      "title": "Beta Test V3",
+      "excerpt": "Benutzergesteuerte Updates, verbesserte Benutzeroberfläche, vereinfachte Blockchain-Erfahrung und verbesserte #NFT-Funktionen.",
+      "content": "BlueberryRing Testnet hat sich zu v3 entwickelt! In diesem Update haben wir: \n\n • Alle UXUY-Benutzerfeedbacks integriert \n\n • Alle Funktionalitäten gründlich getestet \n\n • Die UI-Ästhetik verbessert\n\nDa wir erkannt haben, dass Blockchain für Web2-Benutzer verwirrend sein kann, haben wir erhebliche Verbesserungen an folgenden Bereichen vorgenommen: \n\n • Benutzererfahrung \n\n • Onboarding-Prozess \n\n • Bildungsressourcen \n\n **Neues Feature-Highlight**: Verbesserte #NFT-Zufallszahlengenerierung"
+    }
+  ],
+  "es": [
+    {
+      "title": "Beta Test V3",
+      "excerpt": "Actualizaciones impulsadas por el usuario, interfaz de usuario mejorada, experiencia de blockchain simplificada y funciones #NFT mejoradas.",
+      "content": "BlueberryRing testnet ha evolucionado a la v3! En esta actualización, hemos: \n\n • Incorporado todos los comentarios de los usuarios de UXUY \n\n • Probado a fondo todas las funcionalidades \n\n • Mejorado la estética de la interfaz de usuario\n\nReconociendo que la cadena de bloques puede ser confusa para los usuarios de Web2, hemos realizado mejoras significativas en: \n\n • Experiencia del usuario \n\n • Proceso de incorporación \n\n • Recursos educativos \n\n **Nuevo punto destacado de la función**: Generación de números aleatorios #NFT mejorada"
+    }
+  ],
+  "fr": [
+    {
+      "title": "Test bêta V3",
+      "excerpt": "Mises à jour pilotées par les utilisateurs, interface utilisateur améliorée, expérience de la blockchain simplifiée et fonctionnalités #NFT améliorées.",
+      "content": "BlueberryRing testnet a évolué vers la v3 ! Dans cette mise à jour, nous avons :\n\n • Intégré tous les commentaires des utilisateurs UXUY \n\n • Testé en profondeur toutes les fonctionnalités \n\n • Amélioré l'esthétique de l'interface utilisateur\n\nReconnaissant que la blockchain peut être déroutante pour les utilisateurs Web2, nous avons apporté des améliorations significatives à :\n\n • L'expérience utilisateur \n\n • Le processus d'intégration \n\n • Les ressources éducatives \n\n **Nouvelle fonctionnalité phare**: Génération de nombres aléatoires #NFT améliorée"
+    }
+  ],
+  "id": [
+    {
+      "title": "Uji Coba Beta V3",
+      "excerpt": "Pembaruan yang digerakkan pengguna, UI yang disempurnakan, pengalaman blockchain yang disederhanakan, dan fitur #NFT yang ditingkatkan.",
+      "content": "BlueberryRing testnet telah berevolusi ke v3! Dalam pembaruan ini, kami telah: \n\n • Menggabungkan semua umpan balik pengguna UXUY \n\n • Menguji semua fungsionalitas secara menyeluruh \n\n • Meningkatkan estetika UI\n\nMenyadari bahwa blockchain bisa membingungkan bagi pengguna Web2, kami telah membuat peningkatan signifikan pada: \n\n • Pengalaman pengguna \n\n • Proses onboarding \n\n • Sumber daya edukasi \n\n **Sorotan fitur baru**: Generasi angka acak #NFT yang disempurnakan"
+    }
+  ],
+  "it": [
+    {
+      "title": "Beta Test V3",
+      "excerpt": "Aggiornamenti guidati dall'utente, interfaccia utente migliorata, esperienza blockchain semplificata e funzionalità #NFT migliorate.",
+      "content": "BlueberryRing testnet è evoluto alla v3! In questo aggiornamento, abbiamo:\n\n • Integrato tutti i feedback degli utenti UXUY\n\n • Testato a fondo tutte le funzionalità\n\n • Migliorato l'estetica dell'UI\n\nRiconoscendo che la blockchain può essere confusa per gli utenti Web2, abbiamo apportato miglioramenti significativi a:\n\n • Esperienza utente\n\n • Processo di onboarding\n\n • Risorse educative\n\n **Nuova funzione in evidenza**: Generazione di numeri casuali #NFT migliorata"
+    }
+  ],
+  "ja": [
+    {
+      "title": "ベータテストV3",
+      "excerpt": "ユーザー主導のアップデート、UIの向上、簡素化されたブロックチェーン体験、および強化された #NFT 機能。",
+      "content": "BlueberryRing テストネットがv3に進化しました！今回のアップデートでは、以下を行いました。\n\n • UXUYユーザーからのフィードバックをすべて取り入れました \n\n • すべての機能を徹底的にテストしました \n\n • UIの美観を向上させました\n\nブロックチェーンがWeb2ユーザーにとって分かりにくいことを認識し、以下を大幅に改善しました。\n\n • ユーザーエクスペリエンス \n\n • オンボーディングプロセス \n\n • 教育リソース \n\n **新機能のハイライト**: 強化された#NFT乱数生成"
+    }
+  ],
+  "ko": [
+    {
+      "title": "베타 테스트 V3",
+      "excerpt": "사용자 중심 업데이트, 개선된 UI, 간소화된 블록체인 경험 및 향상된 #NFT 기능.",
+      "content": "블루베리링 테스트넷이 v3로 진화했습니다! 이 업데이트에서 저희는:\n\n • 모든 UXUY 사용자 피드백을 통합했습니다 \n\n • 모든 기능을 철저히 테스트했습니다 \n\n • UI 미학을 개선했습니다 \n\n블록체인이 Web2 사용자에게 혼란스러울 수 있다는 점을 인지하여 저희는 다음 사항을 크게 개선했습니다:\n\n • 사용자 경험 \n\n • 온보딩 프로세스 \n\n • 교육 자료 \n\n**새로운 기능 하이라이트**: 향상된 #NFT 난수 생성"
+    }
+  ],
+  "nl": [
+    {
+      "title": "Beta Test V3",
+      "excerpt": "Gebruikersgestuurde updates, verbeterde gebruikersinterface, vereenvoudigde blockchain-ervaring en verbeterde #NFT-functies.",
+      "content": "BlueberryRing testnet is geëvolueerd naar v3! In deze update hebben we:\n\n • Alle UXUY gebruikersfeedback geïntegreerd\n\n • Alle functionaliteiten grondig getest\n\n • De esthetiek van de UI verbeterd\n\nErkennend dat blockchain verwarrend kan zijn voor Web2-gebruikers, hebben we aanzienlijke verbeteringen aangebracht aan:\n\n • Gebruikerservaring\n\n • Onboardingproces\n\n • Educatieve bronnen\n\n **Nieuwe functiebenadrukking**: Verbeterde #NFT-willekeurige getalgeneratie"
+    }
+  ],
+  "pt": [
+    {
+      "title": "Teste Beta V3",
+      "excerpt": "Atualizações orientadas pelo usuário, interface do usuário aprimorada, experiência simplificada em blockchain e recursos #NFT aprimorados.",
+      "content": "BlueberryRing testnet evoluiu para v3! Nesta atualização, nós:\n\n • Incorporamos todos os feedbacks dos usuários UXUY\n\n • Testamos completamente todas as funcionalidades\n\n • Melhoramos a estética da UI\n\nReconhecendo que blockchain pode ser confuso para usuários Web2, nós fizemos melhorias significativas para:\n\n • Experiência do usuário\n\n • Processo de onboarding\n\n • Recursos educacionais\n\n**Destaque de novo recurso**: Geração de números aleatórios #NFT aprimorada"
+    }
+  ],
+  "ro": [
+    {
+      "title": "Test Beta V3",
+      "excerpt": "Actualizări conduse de utilizator, interfață îmbunătățită, experiență blockchain simplificată și funcții #NFT îmbunătățite.",
+      "content": "BlueberryRing testnet a evoluat la v3! În această actualizare, am:\n\n • Integrat toate feedback-urile utilizatorilor UXUY \n\n • Testat temeinic toate funcționalitățile \n\n • Îmbunătățit estetica UI\n\nRecunoscând că blockchain-ul poate fi confuz pentru utilizatorii Web2, am făcut îmbunătățiri semnificative la:\n\n • Experiența utilizatorului \n\n • Procesul de integrare \n\n • Resursele educaționale \n\n **Punctul culminant al noii funcții**: Generare îmbunătățită de numere aleatoare #NFT"
+    }
+  ],
+  "ru": [
+    {
+      "title": "Бета-тест V3",
+      "excerpt": "Обновления, управляемые пользователями, улучшенный интерфейс, упрощенный опыт работы с блокчейном и расширенные функции #NFT.",
+      "content": "Тестовая сеть BlueberryRing перешла на версию v3! В этом обновлении мы:\n\n • Учли все отзывы пользователей UXUY\n\n • Тщательно проверили все функции\n\n • Улучшили эстетику пользовательского интерфейса\n\nПонимая, что блокчейн может быть сложным для пользователей Web2, мы внесли значительные улучшения в:\n\n • Пользовательский опыт\n\n • Процесс адаптации\n\n • Образовательные ресурсы\n\n **Новое ключевое свойство**: Улучшенная генерация случайных чисел #NFT"
+    }
+  ],
+  "tr": [
+    {
+      "title": "Beta Test V3",
+      "excerpt": "Kullanıcı odaklı güncellemeler, geliştirilmiş kullanıcı arayüzü, basitleştirilmiş blok zinciri deneyimi ve gelişmiş #NFT özellikleri.",
+      "content": "BlueberryRing testnet v3'e evrildi! Bu güncellemede:\n\n • Tüm UXUY kullanıcı geri bildirimlerini entegre ettik\n\n • Tüm işlevsellikleri kapsamlı bir şekilde test ettik\n\n • Kullanıcı arayüzü estetiğini geliştirdik\n\n Blockchain'in Web2 kullanıcıları için kafa karıştırıcı olabileceğini bilerek, şunlarda önemli iyileştirmeler yaptık:\n\n • Kullanıcı deneyimi\n\n • Kayıt süreci\n\n • Eğitim kaynakları\n\n **Yeni özellik öne çıkan**: Geliştirilmiş #NFT rastgele sayı üretimi"
+    }
+  ],
+  "vi": [
+    {
+      "title": "Phiên bản thử nghiệm Beta V3",
+      "excerpt": "Cập nhật do người dùng điều khiển, giao diện người dùng được cải thiện, trải nghiệm chuỗi khối đơn giản hóa và các tính năng #NFT được nâng cao.",
+      "content": "BlueberryRing testnet đã phát triển lên phiên bản v3! Trong bản cập nhật này, chúng tôi đã:\n\n • Kết hợp tất cả phản hồi từ người dùng UXUY\n\n • Kiểm tra kỹ lưỡng tất cả chức năng\n\n • Cải thiện tính thẩm mỹ của giao diện người dùng\n\nNhận thức rằng blockchain có thể gây nhầm lẫn cho người dùng Web2, chúng tôi đã thực hiện những cải tiến đáng kể đối với:\n\n • Trải nghiệm người dùng\n\n • Quá trình nhập môn\n\n • Tài liệu giáo dục\n\n **Điểm nổi bật của tính năng mới**: Nâng cao khả năng tạo số ngẫu nhiên #NFT"
+    }
+  ],
+  "zh-hans": [
+    {
+      "title": "Beta 测试 V3",
+      "excerpt": "用户驱动的更新，改进的UI，简化的区块链体验，以及增强的 #NFT 功能。",
+      "content": "BlueberryRing 测试网已升级到 v3！在此更新中，我们：\n\n •  已整合所有 UXUY 用户反馈 \n\n •  已全面测试所有功能 \n\n •  改善了 UI 美观度\n\n认识到区块链对 Web2 用户来说可能很令人困惑，我们对以下方面进行了重大改进：\n\n •  用户体验 \n\n •  入职流程 \n\n •  教育资源 \n\n **新功能亮点**: 增强了 #NFT 随机数生成"
+    }
+  ],
+  "zh-hant": [
+    {
+      "title": "Beta 測試 V3",
+      "excerpt": "用戶驅動的更新，改進的 UI，簡化的區塊鏈體驗，以及增強的 #NFT 功能。",
+      "content": "BlueberryRing測試網已進化至v3！在此更新中，我們：\n\n • 融合了所有UXUY用戶反饋\n\n • 徹底測試了所有功能\n\n • 改進了UI美觀\n\n認識到區塊鏈對Web2用戶來說可能令人困惑，我們對以下方面進行了重大改進：\n\n • 用戶體驗\n\n • 入門流程\n\n • 教育資源\n\n **新功能亮點**: 增強的#NFT隨機數生成"
+    }
+  ]
 }
