@@ -1,0 +1,43 @@
+name: Translate en.json to multi-lang
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@latest
+
+    - name: Set up Python
+      uses: actions/setup-python@latest
+      with:
+        python-version: '3.12.3' # Specify Python version
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -q -U google-generativeai
+
+    - name: Run translation script
+      working-directory: translations
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINIKEY }}
+      run: |
+        python translate.py geneva.json
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update pre-QA with latest translations"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
