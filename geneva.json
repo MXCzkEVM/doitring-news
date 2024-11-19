@@ -1,9 +1,9 @@
 {
   "en": [
     {
-      "title": "Release Candidate 1",
-      "excerpt": "New staking, UI, and onboarding!",
-      "content": "BlueberryRing testnet RC1 is here! In this update, we've:\n\n • Revamped the staking process\n • Streamlined token claim system\n • Enhanced referral link functionality\n • Improved UI elements\n\nWe've overhauled the user experience with:\n\n • Redesigned onboarding process\n • Updated home screen\n • Improved educational resources\n\n**New feature highlights**:\n • Optimized staking mechanism\n • User-friendly token claim interface\n • Simplified referral system\n\nThis update makes BlueberryRing more accessible for both Web3 enthusiasts and newcomers!"
+      "title": "Release Candidate 2",
+      "excerpt": "New Health Ring, bug fixes!",
+      "content": "BlueberryRing testnet RC2 is here!\n\n • Added Health Ring Ratings to track vitals and wellness metrics, similar to leading smart rings\n • Introduced comprehensive guided tutorial system with interactive tasks and tips\n • Enhanced typography with improved readability across all screens\n • Streamlined mining dashboard with real-time performance indicators\n • Optimized app performance with smoother transitions and animations\n • Fixed stability issues for seamless user experience\n\nUpgrade now to experience advanced health tracking, guided tutorials, and polished interface designed for both beginners and power users!"
     }
   ],
   "de": [
