@@ -36,7 +36,7 @@ Translate the above text to {target_language}. Remember, provide ONLY the direct
 
 def main():
     parser = argparse.ArgumentParser(description="Translate JSON file using Gemini API")
-    parser.add_argument("input_file", choices=["geneva.json", "moonchain.json"], help="Input JSON file to translate")
+    parser.add_argument("input_file", choices=["moonchain_geneva.json", "moonchain.json"], help="Input JSON file to translate")
     args = parser.parse_args()
 
     language_dict = {
